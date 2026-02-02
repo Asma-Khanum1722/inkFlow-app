@@ -49,4 +49,12 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:5173` to view the app.
+4.  **Open in Browser**
+    Visit `http://localhost:5173` to view the app.
+
+## 📦 Building for Production
+
+To create a production-ready build:
+
+```bash
+npm run build
